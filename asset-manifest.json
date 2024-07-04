@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jonia89/firebase-todo/static/css/main.cc17496a.css",
+    "main.js": "/jonia89/firebase-todo/static/js/main.ea230c8d.js",
+    "index.html": "/jonia89/firebase-todo/index.html",
+    "main.cc17496a.css.map": "/jonia89/firebase-todo/static/css/main.cc17496a.css.map",
+    "main.ea230c8d.js.map": "/jonia89/firebase-todo/static/js/main.ea230c8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc17496a.css",
+    "static/js/main.ea230c8d.js"
+  ]
+}
